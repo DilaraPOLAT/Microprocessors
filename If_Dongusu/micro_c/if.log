@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F628A -DL -O11111114 -fo4 -N"C:\Users\DÝLARA SEVÝM POLAT\Desktop\2021-Bahar\Mikro_C\If_Dongusu\micro_c\if.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\DÝLARA SEVÝM POLAT\Desktop\2021-Bahar\Mikro_C\If_Dongusu\micro_c\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "_if.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 208 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	_if.c
+diagnostics: 27	123	Compiled Successfully	_if.c
+diagnostics: 0	127	All files Compiled in 250 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 206 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 206 (99%)
+hint: 0	1144	Used ROM (program words): 77 (4%)  Free ROM (program words): 1971 (96%)	Used ROM (program words): 77 (4%)  Free ROM (program words): 1971 (96%)
+diagnostics: 0	125	Project Linked Successfully	if.mcppi
+diagnostics: 0	128	Linked in 63 ms	 
+diagnostics: 0	129	Project 'if.mcppi' completed: 469 ms	 
+diagnostics: 0	103	Finished successfully: 02 May 2021, 13:49:53	if.mcppi

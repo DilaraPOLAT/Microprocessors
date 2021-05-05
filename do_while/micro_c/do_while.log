@@ -1,0 +1,16 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F628A -DL -O11111114 -fo4 -N"C:\Users\DÝLARA SEVÝM POLAT\Desktop\2021-Bahar\Mikro_C\do_while\micro_c\do_while.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\DÝLARA SEVÝM POLAT\Desktop\2021-Bahar\Mikro_C\do_while\micro_c\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "do_while.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 208 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	do_while.c
+error: 12	315	Invalid expression	do_while.c
+error: 12	402	; expected, but '{' found	do_while.c
+error: 14	411	while expected, but 'i' found	do_while.c
+error: 15	405	'(' expected, but '++' found	do_while.c
+error: 15	315	Invalid expression	do_while.c
+error: 15	406	')' expected, but ';' found	do_while.c
+error: 15	402	; expected, but 'delay_ms' found	do_while.c
+error: 16	424	'}' expected 'delay_ms' found	do_while.c
+error: 18	371	Specifier needed	do_while.c
+error: 18	396	Invalid declarator expected'(' or identifier	do_while.c
+error: 18	300	Syntax Error: ')' expected,  but '<' found	do_while.c
+error: 18	312	Internal error ''	do_while.c
+error: 0	102	Finished (with errors): 02 May 2021, 13:49:58	do_while.mcppi
